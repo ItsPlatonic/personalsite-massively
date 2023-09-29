@@ -2748,7 +2748,7 @@
 		}
 
 		header.major {
-			margin: 0 0 4rem 0;
+			margin: 6rem 0 4rem 0;
 			text-align: center;
 		}
 
@@ -2794,7 +2794,7 @@
 		@media screen and (max-width: 736px) {
 
 			header.major {
-				margin: 0 0 2rem 0;
+				margin: 8rem 0 2rem 0;
 			}
 
 		}
@@ -3082,7 +3082,7 @@
 
 	#intro {
 		color: #ffffff;
-		padding: 8rem 4rem 6rem 4rem ;
+		padding: 0rem 4rem 4rem 4rem ;
 		-moz-align-items: center;
 		-webkit-align-items: center;
 		-ms-align-items: center;
@@ -3107,7 +3107,7 @@
 		cursor: default;
 		text-align: center;
 		z-index: 1;
-		min-height: 100vh;
+		min-height: 0vh;
 	}
 
 		#intro input, #intro select, #intro textarea {
@@ -3195,7 +3195,7 @@
 		}
 
 		#intro + #header {
-			margin-top: -20rem;
+			margin-top: -4rem;
 		}
 
 			#intro + #header .logo {
@@ -3252,8 +3252,8 @@
 		@media screen and (max-width: 980px) {
 
 			#intro {
-				padding: 4rem 4rem 2rem 4rem ;
-				min-height: 90vh;
+				padding: 2rem 4rem 2rem 4rem ;
+				min-height: 0vh;
 			}
 
 				#intro p br {
@@ -3270,7 +3270,7 @@
 
 			#intro {
 				padding: 3rem 2rem 1rem 2rem ;
-				min-height: 80vh;
+				min-height: 0vh;
 			}
 
 				#intro h1 {
@@ -3301,7 +3301,7 @@
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
-		display: flex;
+		display: flex; /* for single page site make it display: none */
 		-moz-flex-direction: column;
 		-webkit-flex-direction: column;
 		-ms-flex-direction: column;
@@ -3318,8 +3318,8 @@
 		-webkit-user-select: none;
 		-ms-user-select: none;
 		user-select: none;
-		height: 20rem;
-		padding-bottom: 8rem;
+		height: 0rem;
+		padding-bottom: 4rem;
 		position: relative;
 		text-align: center;
 		z-index: 2;
@@ -3390,7 +3390,7 @@
 		@media screen and (max-width: 980px) {
 
 			#header {
-				height: 14rem;
+				height: 0rem;
 				padding-bottom: 4rem;
 			}
 
@@ -3585,7 +3585,8 @@
 		}
 
 		#main > .post {
-			padding: 8rem 8rem 6rem 8rem ;
+			/* padding: 8rem 8rem 6rem 8rem ; <- this setting worked before removing nav, potentially restore for multipage*/
+			padding: 0.1rem 8rem 6rem 8rem ;
 		}
 
 			#main > .post header.major > .date {
@@ -3596,6 +3597,7 @@
 				font-size: 4rem;
 				line-height: 1.1;
 				margin: 0 0 2rem 0;
+				display: none;
 			}
 
 			#main > .post.featured {
@@ -3758,7 +3760,7 @@
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
-		display: flex;
+		display: none; /* JJ change: previously said flex */
 		background-color: #f5f5f5;
 		color: #909498;
 		cursor: default;
