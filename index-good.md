@@ -6,10 +6,11 @@ description: <b>The Future of Life Foundation (FLF)</b> is a new organization, a
 published: true
 ---
 
-<h3>Activities</h3> <!-- consider using icons next to each bullet -->
-1. Work to identify gaps in the landscape of efforts to fulfill this mission
-2. Determine what new organizations should exist to address these challenges. 
-3. Once identified, we will recruit, fund, and provide significant support to founders who demonstrate that they can bring these organizations to life.</p><p>Our tentative plan is to help create an average of ~3-5 new organizations per year over the next 5 years, providing each with significant operational support and, if recruited founders’ further develop our research into a compelling proposal, substantial runway.</p>
+<h3>Activities</h3>
+<dl>
+<dt></dt>
+<dd>
+<p><b>1. Our primary plan</b> for doing so is to work to identify gaps in the landscape of efforts to fulfill this mission, and to then determine what new organizations should exist to address these challenges. Once identified, we will recruit, fund, and provide significant support to founders who demonstrate that they can bring these organizations to life.</p><p>Our tentative plan is to help create an average of ~3-5 new organizations per year over the next 5 years, providing each with significant operational support and, if recruited founders’ further develop our research into a compelling proposal, substantial runway.</p>
 </dd>
 <dt></dt>
 <dd>
