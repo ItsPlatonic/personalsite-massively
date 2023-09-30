@@ -2794,7 +2794,7 @@
 		@media screen and (max-width: 736px) {
 
 			header.major {
-				margin: 8rem 0 2rem 0;
+				margin: 0.1rem 0 2rem 0;
 			}
 
 		}
@@ -3607,7 +3607,7 @@
 			@media screen and (max-width: 1280px) {
 
 				#main > .post {
-					padding: 6rem 4rem 4rem 4rem ;
+					padding: 0.1rem 4rem 4rem 4rem ; /* JJ edit: was 6rem for first padding setting */
 				}
 
 			}
