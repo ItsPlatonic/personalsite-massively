@@ -18,6 +18,8 @@ published: true
 <div class="8u" style="margin-top:4rem"><b>Josh Jacobson</b> is the <b><i>Chief Operating Officer</i></b> at the Future of Life Foundation. He has worked across organizational leadership, operations, and/or research for <a>ARC Evals</a>, <a>FAR AI</a>, <a>Anthropic</a>, on a research grant, for the <a>Future for Humanity Institute</a> (<a>EpiFor</a>), the <a>Berkeley Existential Risk Initiative</a>, <a>the World Bank</a>, <a>SocialCops</a>, <a>Innovations for Poverty Action</a>, the <a>Centre for Effective Altruism</a>, a tech startup, and PepsiCo. Josh holds an MPA with a focus in Econometrics in International Development from Columbia University’s School of International and Public Affairs and a Bachelor’s in International Relations and Government from Dartmouth College. <div>
 -->
 
+<h2>Staff</h2>
+
 <div class="row">
 <div class="3u 12u$(small)">
 <ul class="actions vertical">
@@ -42,5 +44,15 @@ published: true
 <ul class="actions vertical">
 <li><b>Josh Jacobson</b> is the <b><i>Chief Operating Officer</i></b> at the Future of Life Foundation. He has worked across organizational leadership, operations, and/or research for <a>ARC Evals</a>, <a>FAR AI</a>, <a>Anthropic</a>, on a research grant, for the <a>Future for Humanity Institute</a> (<a>EpiFor</a>), the <a>Berkeley Existential Risk Initiative</a>, <a>the World Bank</a>, <a>SocialCops</a>, <a>Innovations for Poverty Action</a>, the <a>Centre for Effective Altruism</a>, a tech startup, and PepsiCo. Josh holds an MPA with a focus in Econometrics in International Development from Columbia University’s School of International and Public Affairs and a Bachelor’s in International Relations and Government from Dartmouth College.</li>
 </ul>
+</div>
+</div>
+
+<h2 style="margin-top: 1rem;">Board of Directors</h2>
+<div class="box alt">
+<div class="row 50% uniform">
+<div class="3u"><span class="image fit"><img src="assets/images/anthony.webp" alt="" /></span><div style="text-align: center;"><b>Anthony Aguirre</b><br>(see bio above)</div></div>
+<div class="3u"><span class="image fit"><img src="assets/images/jaan.webp" alt="" /></span><div style="text-align: center;"><b>Jaan Tallinn</b><br>Cofounder, CSER & Skype</div></div>
+<div class="3u"><span class="image fit"><img src="assets/images/max.webp" alt="" /></span><div style="text-align: center;"><b>Max Tegmark</b><br>Professor, MIT & Author, Our Mathematical Universe</div></div>
+<div class="3u$"><span class="image fit"><img src="assets/images/meia.webp" alt="" /></span><div style="text-align: center;"><b>Meia Chita-Tegmark</b><br>Co-Founder FLI </div></div>
 </div>
 </div>
