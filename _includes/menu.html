@@ -9,7 +9,16 @@
 	    	{% endif %}
 		    {% endfor %}
 		    {% for page in site.pages %}
-		    {% if page.layout != "home" %}
+		    {% if page.layout != "home" and page.title == "Home2" %}
+		    	  <!--<li{% if current_page == page.url %} class="active"{% endif %}><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>-->
+		    	  <!--<li{% if current_page == page.url %} class="active"{% endif %}><a href="{{ page.url | absolute_url }}"><img src="assets/images/logo-letters.png" style="height: 1.5rem; margin-top: 1.25rem; margin-left: -0.25rem" ;></a></li>-->
+
+		    	  <!-- DOESN'T YET WORK IF HOMEPAGE IS INACTIVE AND MENU IS VIEWED ON MOBILE -->
+		    	  <li{% if current_page == page.url %} class="active"{% endif %}><a href="{{ page.url | absolute_url }}"><img{% if current_page == page.url %} src="assets/images/logo-plants-dark.png"{% endif %} src="assets/images/logo-plants.png"style="height: 1.5rem; margin-top: 1.25rem; margin-left: -0.25rem" ;></a></li>
+		    	  
+		    	  <!--<li{% if current_page == page.url %} class="active"{% endif %}><a href="{{ page.url | absolute_url }}"><img src="assets/images/logo.png" ;>FLF</a></li>-->
+		    	  <!--<li{% if current_page == page.url %} class="active"{% endif %} style="background-image: url(assets/images/logo.png); min-height: 300px"><a href="{{ page.url | absolute_url }}">{{ }}</a></li>-->
+		    {% elsif page.layout != "home" and page.title != "Home2" %}
 		    <li{% if current_page == page.url %} class="active"{% endif %}><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 		    {% endif %}
 		    {% endfor %}
@@ -45,7 +54,7 @@
 				{% if site.linkedin_url %}
 				<li><a href="{{ site.linkedin_url }}" class="icon fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 				{% endif %}
-
+				<!--<li><span class="label"><img src="assets/images/logo.png"></span></li> #use this for logo on right-->
 		</ul>
 </nav>
 

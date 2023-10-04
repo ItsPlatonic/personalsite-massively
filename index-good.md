@@ -2,8 +2,8 @@
 layout: page
 title: Home
 image: 
-description: <b>The Future of Life Foundation (FLF)</b> is a new organization, affiliated with the <a href="https://futureoflife.org/">Future of Life Institute</a>, whose mission is to steer transformative technology towards benefiting life and away from extreme large-scale risks.
-published: true
+description: <b>The Future of Life Foundation (FLF)</b> is a new nonprofit organization, affiliated with the <a href="https://futureoflife.org/">Future of Life Institute</a>, whose mission is to steer transformative technology towards benefiting life and away from extreme large-scale risks.
+published: false
 ---
 
 <h3>Activities</h3>
