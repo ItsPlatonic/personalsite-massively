@@ -6,11 +6,12 @@ description: <b>Tracking the longest throws in football history.</b>
 published: true
 ---
 
+<h2>Click an arrow to show content:</h2>
 
-76.25 Patrick Mahomes https://www.youtube.com/watch?v=hZdpR93uggw
-75.5 Josh Allen https://youtu.be/c-qIlSbjfqQ?si=CXAOOggbIviXiQBG&t=90
+<details markdown=block>
+<summary markdown=span class=h1_style>In-Game</summary>
 
-<h2>🥇 First Place: 71.9 Yards</h2> <!-- consider using icons next to each bullet -->
+<h2>🥇 First Place: 71.9 Yards<a href="/siteinfo" style="color: blue">*</a></h2> <!-- consider using icons next to each bullet -->
 <h3>Aaron Rodgers</h3>
 <h4>Green Bay Packers vs. Detriot Lions, September 25, 2016</h4>
 
@@ -48,13 +49,46 @@ We're not sure this one has as good a story as either of the previous two, but i
 
 <h2>Honorable Mentions</h2>
 
-- Josh Allen throws for 70 yards 3 times here, on his Pro Day: https://www.youtube.com/watch?v=uE9_GyEExks
-- Favre, 70: https://youtu.be/c-qIlSbjfqQ?si=WVo7_kBIIpbGbuqr&t=32
+- [Rodgers 70 yard incomplete Hail Mary vs. the Cardinals](https://www.nfl.com/videos/rodgers-hail-mary-incompletion-goes-70-yards-in-air)
+- [Two consecutive throws hit the 69 yard mark starting at the 1 minute mark in this linked highlight video](https://youtu.be/SIW5bADcsAA?si=9_ydwTnlzgxGlRbW&t=60)
 
-Aaron Rodgers has two throws that have hit the 70 yard mark; we believe these to be the fourth and fifth longest throws:
+</details>
 
-- [This incomplete Hail Mary vs. the Cardinals](https://www.nfl.com/videos/rodgers-hail-mary-incompletion-goes-70-yards-in-air)
-- A completion to Donald Driver vs. the Lions (video was watched, but has since been deleted and we've been unable to locate the footage since).
+<details markdown=block>
+<summary markdown=span class=h1_style>Outside of Games</summary>
+
+<h2>🥇 First Place: 76.25 Yards<a href="/siteinfo" style="color: blue">*</a></h2> <!-- consider using icons next to each bullet -->
+<h3>Patrick Mahomes</h3>
+<h4>Texas Tech Pro Day, 2017</h4>
+
+<span class="image fit">
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1011540601?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Pat Mahomes Pro Day Throw"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<br>
+This is the furthest verifiable throw of a regulation football. Mahomes launches it as his final throw in front of NFL staff pre-draft, a whopping 76.25 yards. Amazing. Even though Rodgers has thrown the furthest in-game ball, it appears Mahomes owns the title of strongest arm.
+
 <hr />
+
+<h2>🥈 Second Place: 75.5 Yards</h2> <!-- consider using icons next to each bullet -->
+<h3>Josh Allen</h3>
+<h4>ESPN Gameday, Year Unknown</h4>
+
+<span class="image fit">
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1011540859?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Josh Allen NFL Gameday"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<br>
+On ESPN Gameday, Josh Allen takes a few steps and absolutely launches the second furthest verifiable throw of a regulation football, showing that he is right up there with Mahomes and Rodgers. It'd be great to see a launch like this in-game someday. What a fucking cannon.
+<hr />
+
+<h2>Honorable Mentions</h2>
+- [Josh Allen throws for 70 yards three times during his Pro Day](https://www.youtube.com/watch?v=uE9_GyEExks)
+- [Brett Favre throws for 70 yards at the 1998 Pro Bowl furthest throw contest](https://youtu.be/c-qIlSbjfqQ?si=WVo7_kBIIpbGbuqr&t=32)
+
+</details>
+
+<hr />
+
+
+
 <h2>Know of a longer throw?</h2>
 <a href="mailto:info@thelongestthrow.com" class="button big fit">Send us an email</a>

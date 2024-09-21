@@ -1719,6 +1719,11 @@
 			text-decoration: none;
 		}
 
+	.h1_style {
+		cursor: pointer;font-size: 4rem; line-height: 1.1; margin: 0 0 2rem 0; font-family: "Source Sans Pro", Helvetica, sans-serif; font-weight: 900; letter-spacing: 0.075em; text-transform: uppercase;
+	}
+
+
 	h1 {
 		font-size: 4rem;
 		line-height: 1.1;
