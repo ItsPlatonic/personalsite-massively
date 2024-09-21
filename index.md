@@ -65,7 +65,7 @@ We're not sure this one has as good a story as either of the previous two, but i
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1011540601?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Pat Mahomes Pro Day Throw"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br>
-This is the furthest verifiable throw of a regulation football. Mahomes launches it as his final throw in front of NFL staff pre-draft, a whopping 76.25 yards. Amazing. Even though Rodgers has thrown the furthest in-game ball, it appears Mahomes owns the title of strongest arm.
+This is the furthest verifiable throw of a regulation football. Mahomes launches it as his final throw in front of NFL staff pre-draft, a whopping 76.25 yards. Amazing. Even though Rodgers has thrown the furthest in-game ball, it appears Mahomes may own the title of strongest arm.
 
 <hr />
 
