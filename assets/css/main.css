@@ -4493,3 +4493,28 @@
 		}
 
 	}
+
+/* Mobile logo selection*/
+@media only screen and (max-width: 980px) {
+    ul.links > li:nth-child(2) {
+    	display: none !important;
+    }
+}
+
+@media only screen and (max-width: 980px) and (min-width: 737px) {
+	div.site-name-mobile {
+		margin-top: 4rem !important;
+		margin-bottom: -2rem;
+	}
+}
+
+/* Non-mobile (desktop) browser logo selection */
+@media only screen and (min-width: 981px) {
+    ul.links > li:first-child {
+    display: none !important;
+	}
+
+	.site-name-mobile {
+		display: none;
+	}
+}
