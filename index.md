@@ -52,7 +52,7 @@ We're not sure this one has as good a story as either of the previous two, but i
 - [Rodgers 70.5 yard incomplete Hail Mary on 10/16/25, at age 41, vs. the Bengals](https://www.espn.com.au/video/clip/_/id/46621711)
 - [Rodgers 70 yard incomplete Hail Mary vs. the Cardinals](https://www.nfl.com/videos/rodgers-hail-mary-incompletion-goes-70-yards-in-air)
 - [Two consecutive throws hit the 69 yard mark starting at the 1 minute mark in this linked highlight video, including the longest non-Hail Mary TD pass of all time](https://youtu.be/SIW5bADcsAA?si=9_ydwTnlzgxGlRbW&t=60)
-- [68 yard TD pass by Bo Nix, 2024's longest throw](https://www.reddit.com/r/nfl/comments/1j53647/highlight_bo_nix_throws_a_51_yard_check_down_to/)
+- [Bo Nix 68 yard TD pass, 2024's longest throw](https://www.reddit.com/r/nfl/comments/1j53647/highlight_bo_nix_throws_a_51_yard_check_down_to/)
 
 </details>
 
