@@ -49,6 +49,7 @@ We're not sure this one has as good a story as either of the previous two, but i
 
 <h2>Honorable Mentions</h2>
 
+- [Rodgers 70.5 yard incomplete Hail Mary on 10/16/25, at age 41, vs. the Bengals](https://www.espn.com.au/video/clip/_/id/46621711)
 - [Rodgers 70 yard incomplete Hail Mary vs. the Cardinals](https://www.nfl.com/videos/rodgers-hail-mary-incompletion-goes-70-yards-in-air)
 - [Two consecutive throws hit the 69 yard mark starting at the 1 minute mark in this linked highlight video](https://youtu.be/SIW5bADcsAA?si=9_ydwTnlzgxGlRbW&t=60)
 
